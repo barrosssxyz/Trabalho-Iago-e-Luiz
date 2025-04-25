@@ -1,4 +1,6 @@
 programa {
+
+  // sua calculadora ficou foda, parabens 
   funcao real somar(real n1, real n2) {
     retorne n1 + n2
   }
